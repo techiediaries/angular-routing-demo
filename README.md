@@ -1,6 +1,8 @@
-# AngularRoutingDemo
+# Angular 7 Routing Demo and Example
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.1.
+Learn about Angular routing in Angular 7 from this tutorial: [Angular Router Tutorial: Learn Angular 7|6 Routing & Navigation by Example](https://www.techiediaries.com/angular-router)
+
+> This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.1.
 
 ## Development server
 
